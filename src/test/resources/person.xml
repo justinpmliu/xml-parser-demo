@@ -1,0 +1,16 @@
+<Person>
+    <firstName>Rohan</firstName>
+    <lastName>Daye</lastName>
+    <phoneNumbers>
+        <phoneNumber>9911034731</phoneNumber>
+        <phoneNumber>9911033478</phoneNumber>
+    </phoneNumbers>
+    <address>
+        <street>Name1</street>
+        <city>City1</city>
+    </address>
+    <address>
+        <street>Name2</street>
+        <city>City2</city>
+    </address>
+</Person>
